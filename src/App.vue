@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import Backdrop from './components/Backdrop/Backdrop.vue'
+</script>
 
-<template></template>
+<template>
+  <Backdrop></Backdrop>
+</template>
 
 <style scoped></style>
